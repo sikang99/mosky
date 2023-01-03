@@ -1,8 +1,8 @@
 #
-# Makefile for culex srt media server
+# Makefile for mosky gltf streaming
 #
 #------------------------------------------------------------------------------------------
-BUILD=0.0.1.3
+BUILD=0.0.0.1
 #------------------------------------------------------------------------------------------
 usage:
 	@echo "usage: make [build|run|kill|ffmpeg]"

@@ -1,4 +1,4 @@
-## WHIP/WHEP : WbRTC HTTP Ingres/Egress Protocol
+## GLTF Streaming
 
 
 ### Articles
