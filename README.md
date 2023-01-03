@@ -8,7 +8,9 @@
 
 ### Information
 - [glTF](https://www.khronos.org/gltf/) - 3D Asset Delivery
+- [glTF Project Explorer](https://github.khronos.org/glTF-Project-Explorer/)
 - [gltf viewer](https://playcanvas.github.io/playcanvas-gltf/viewer/)
+- [glTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [model viewer](https://playcanvas.com/model-viewer)
 - [model viewer](https://modelviewer.dev/) by google
 - [Babylon.js Sandbox - View glTF, glb, obj and babylon files](https://sandbox.babylonjs.com/)
@@ -17,6 +19,7 @@
 - [glTF Viewer Tutorial](https://gltf-viewer-tutorial.gitlab.io/)
 - [Pyrender Documentation](https://pyrender.readthedocs.io/en/latest/)
 - [Open3D](http://www.open3d.org/) - A Modern Library for 3D Data Processing
+- Panda3D: [glTF Files](https://docs.panda3d.org/1.10/cpp/pipeline/gltf-files)
 
 
 ### Open Source (Go)
