@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2022/09/22 [A Step-by-Step Guide to Exporting glTF Files From Blender](https://iconscout.com/blog/export-gltf-files-from-blender)
 
 
 ### Information
@@ -9,6 +10,7 @@
 - [gltf viewer](https://playcanvas.github.io/playcanvas-gltf/viewer/)
 - [model viewer](https://playcanvas.com/model-viewer)
 - [Babylon.js Sandbox - View glTF, glb, obj and babylon files](https://sandbox.babylonjs.com/)
+- [Efficiently rendering glTF models A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/)
 
 
 ### Open Source (Go)
