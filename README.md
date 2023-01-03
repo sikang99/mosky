@@ -13,6 +13,7 @@
 
 ### Open Source (Go)
 - [qmuntal/gltf](https://github.com/qmuntal/gltf) - Go library for encoding glTF 2.0 files
+- [qmuntal/draco-go](https://github.com/qmuntal/draco-go) - google/draco bindings for Go
 
 
 ### Open Source
