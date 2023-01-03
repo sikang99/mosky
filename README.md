@@ -25,7 +25,8 @@
 
 ### Open Source
 - [KhronosGroup/glTF-Validator](https://github.com/KhronosGroup/glTF-Validator) - Tool to validate glTF assets
+- [https://github.com/KhronosGroup/glTF-Sample-Models](https://github.com/KhronosGroup/glTF-Sample-Models) - glTF Sample Models
 - [magicien/GLTFQuickLook](https://github.com/magicien/GLTFQuickLook)
 - [google/model-viewer](https://github.com/google/model-viewer)
-
+- [mmatl/pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
 
