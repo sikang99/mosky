@@ -14,6 +14,7 @@
 ### Open Source (Go)
 - [qmuntal/gltf](https://github.com/qmuntal/gltf) - Go library for encoding glTF 2.0 files
 - [qmuntal/draco-go](https://github.com/qmuntal/draco-go) - google/draco bindings for Go
+- [HPInc/go3mf](https://github.com/HPInc/go3mf) - 3D Manufacturing Format (3MF) implementation for Go
 
 
 ### Open Source
