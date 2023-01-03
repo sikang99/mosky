@@ -20,6 +20,7 @@
 
 
 ### Open Source
+- [KhronosGroup/glTF-Validator](https://github.com/KhronosGroup/glTF-Validator) - Tool to validate glTF assets
 - [magicien/GLTFQuickLook](https://github.com/magicien/GLTFQuickLook)
 
 
