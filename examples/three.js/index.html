@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title>Play GLB</title>
+	<style>
+		body {
+			margin: 0;
+		}
+		canvas {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<!-- Include three.js library -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r118/three.min.js"></script>
+	<!-- Set up the scene and renderer -->
+	<script>
+		var container;
+		var camera, scene, renderer, mixer;
+
+		init();
+		animate();
+
+		function init() {
+			container = document.createElement( 'div' );
+			document.body.appendChild( container );
+
+			camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 0.25, 20 );
+			camera.position.set( -1.8, 0.9, 2.7 );
+
+			scene = new THREE.Scene();
+
+			// Load glTF model.
+			var loader = new THREE.GLTFLoader();
+			loader.load( 'animation.glb', function ( gltf ) {
+				scene.add( gltf.scene );
+				mixer = new THREE.AnimationMixer( gltf.scene );
+				gltf.animations.forEach( function ( clip ) {
+					mixer.clipAction( clip ).play();
+				} );
+			}, undefined, function ( error ) {
+				console.error( error );
+			} );
+
+			renderer = new THREE.WebGLRenderer();
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			container.appendChild( renderer.domElement );
+		}
+
+		function animate() {
+			requestAnimationFrame( animate );
+			if ( mixer ) mixer.update( 0.01 );
+			renderer.render( scene, camera );
+		}
+	</script>
+</body>
+</html>
+
