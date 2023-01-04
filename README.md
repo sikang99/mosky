@@ -42,7 +42,7 @@
 - [magicien/GLTFQuickLook](https://github.com/magicien/GLTFQuickLook)
 - [google/model-viewer](https://github.com/google/model-viewer)
 - [mmatl/pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
-- [imerso/facecap](https://github.com/imerso/facecap) 
+- [imerso/facecap](https://github.com/imerso/facecap) - Babylon.js + Mediapipe face capture
 
 
 ### Commands
