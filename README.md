@@ -4,6 +4,7 @@
 ### Articles
 - 2022/11/03 [Create 3D models for use in the home](https://learn.microsoft.com/en-us/windows/mixed-reality/distribute/creating-3d-models-for-use-in-the-windows-mixed-reality-home)
 - 2022/09/22 [A Step-by-Step Guide to Exporting glTF Files From Blender](https://iconscout.com/blog/export-gltf-files-from-blender)
+- 2022/05/22 [Realtime 3D Face Capture](https://forum.babylonjs.com/t/realtime-3d-face-capture/30020)
 
 
 ### Information
