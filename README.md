@@ -28,8 +28,8 @@
 - [qmuntal/draco-go](https://github.com/qmuntal/draco-go) - google/draco bindings for Go
 - [HPInc/go3mf](https://github.com/HPInc/go3mf) - 3D Manufacturing Format (3MF) implementation for Go
 - [yapingcat/gomedia](https://github.com/yapingcat/gomedia) - golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
-- [naikrovek/gltf-go](https://github.com/naikrovek/gltf-go) - A very small and incomplete glTF 2.0 library for go
-
+- [naikrovek/gltf-go](https://github.com/naikrovek/gltf-go) - A very small and incomplete glTF 2.0 library for go (4 years)
+- [sturfeeinc/glTF](https://github.com/sturfeeinc/glTF) - Struct for marshaling and unmarshaling glTF (6 years)
 
 
 ### Open Source
