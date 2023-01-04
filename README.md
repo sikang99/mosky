@@ -22,6 +22,7 @@
 - Panda3D: [glTF Files](https://docs.panda3d.org/1.10/cpp/pipeline/gltf-files)
 - VSCode MarketPlace: [glTF Tools](https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode)
 - [POP Buffers](https://x3dom.org/pop/)
+- [WebGPU Samples](https://austin-eng.com/webgpu-samples)
 
 
 ### Open Source (Go)
