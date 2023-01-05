@@ -16,7 +16,6 @@
 - [model viewer](https://playcanvas.com/model-viewer)
 - [model viewer](https://modelviewer.dev/) by google
 - [Babylon.js Sandbox - View glTF, glb, obj and babylon files](https://sandbox.babylonjs.com/)
-- [Efficiently rendering glTF models A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/)
 - Blender: [glTF 2.0](https://docs.blender.org/manual/en/2.80/addons/io_scene_gltf2.html)
 - [glTF Viewer Tutorial](https://gltf-viewer-tutorial.gitlab.io/)
 - [Pyrender Documentation](https://pyrender.readthedocs.io/en/latest/)
@@ -26,8 +25,13 @@
 - [POP Buffers](https://x3dom.org/pop/)
 - [WebGPU Samples](https://austin-eng.com/webgpu-samples)
 - [Castle Game Engine](https://castle-engine.io/) 
-- [3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions](https://threedle.github.io/3DHighlighter/)
 - [Elevate3D](https://elevate3d.ai/)
+
+
+### Projects
+- [Efficiently rendering glTF models A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/)
+- [3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions](https://threedle.github.io/3DHighlighter/)
+- [DiscoScene: Spatially Disentangled Generative Radiance Field for Controllable 3D-aware Scene Synthesis](https://snap-research.github.io/discoscene/)
 
 
 ### Open Source (Go)
