@@ -26,6 +26,7 @@
 - [POP Buffers](https://x3dom.org/pop/)
 - [WebGPU Samples](https://austin-eng.com/webgpu-samples)
 - [Castle Game Engine](https://castle-engine.io/) 
+- [3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions](https://threedle.github.io/3DHighlighter/)
 
 
 ### Open Source (Go)
