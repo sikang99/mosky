@@ -15,6 +15,7 @@
 - [glTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [model viewer](https://playcanvas.com/model-viewer)
 - [model viewer](https://modelviewer.dev/) by google
+- [make glb](https://sbtron.github.io/makeglb/)
 - [Babylon.js Sandbox - View glTF, glb, obj and babylon files](https://sandbox.babylonjs.com/)
 - Blender: [glTF 2.0](https://docs.blender.org/manual/en/2.80/addons/io_scene_gltf2.html)
 - [glTF Viewer Tutorial](https://gltf-viewer-tutorial.gitlab.io/)
@@ -29,6 +30,7 @@
 
 
 ### Projects
+- [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://bluestyle97.github.io/dream3d/)
 - [Efficiently rendering glTF models A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/)
 - [3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions](https://threedle.github.io/3DHighlighter/)
 - [DiscoScene: Spatially Disentangled Generative Radiance Field for Controllable 3D-aware Scene Synthesis](https://snap-research.github.io/discoscene/)
