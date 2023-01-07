@@ -29,6 +29,10 @@
 - [Elevate3D](https://elevate3d.ai/)
 
 
+### Books
+- 2012 [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+
+
 ### Projects
 - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://bluestyle97.github.io/dream3d/)
 - [Efficiently rendering glTF models A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/)
